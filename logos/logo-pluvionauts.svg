@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xml:space="preserve"
-   width="20"
-   height="20"
-   viewBox="0 0 5.2916664 5.2916668"
+   width="10"
+   height="10"
+   viewBox="0 0 2.6458332 2.6458334"
    version="1.1"
    id="svg8"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -20,10 +20,10 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/"><defs
      id="defs2"><inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : -24.708334 : 1"
+       inkscape:vp_x="0 : -27.354167 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="59.999997 : -24.708335 : 1"
-       inkscape:persp3d-origin="29.999998 : -34.708334 : 1"
+       inkscape:vp_z="59.999997 : -27.354168 : 1"
+       inkscape:persp3d-origin="29.999998 : -37.354167 : 1"
        id="perspective1143" /></defs><sodipodi:namedview
      inkscape:snap-global="true"
      inkscape:snap-object-midpoints="true"
@@ -40,9 +40,9 @@
      showgrid="false"
      inkscape:current-layer="g16183"
      inkscape:document-units="mm"
-     inkscape:cy="14.960194"
-     inkscape:cx="23.411264"
-     inkscape:zoom="13.903563"
+     inkscape:cy="4.3954535"
+     inkscape:cx="13.104963"
+     inkscape:zoom="30.713555"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -68,7 +68,7 @@
              style="stroke-width:0.75;stroke-dasharray:none"
              transform="rotate(13.788924,125.48201,125.06596)"><g
                id="g354"
-               transform="matrix(0.08797125,0,0,0.08797125,65.995074,69.205431)"><path
+               transform="matrix(0.0451361,0,0,0.0451361,68.927246,72.465595)"><path
                  style="fill:#eae5e1;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                  d="m 115.07872,82.988444 c 0,0 -6.67748,-4.047534 -5.83899,-8.307156 0.83081,-4.220594 -2.70515,-6.74221 -7.6673,-7.561833 -5.675536,-0.937457 -11.910679,-1.064521 -11.910679,-1.064521 0,0 6.178197,0.219837 9.267854,0.312208 3.667735,0.109654 7.458965,1.233049 11.004365,0.287298 4.04684,-1.079513 10.72858,-6.540471 10.72858,-6.540471"
                  id="path20300"
