@@ -1,6 +1,6 @@
 # Hi there, I'm Rémi MONTHILLER (@rmonthil)
 
-An independent game dev, expert in fluid dynamics and open software enthusiast!
+An independent game dev, scientist in fluid dynamics and open software enthusiast!
 
 Check out my current projects:
 * ![Pluvionauts Logo](/logos/logo-pluvionauts.svg) [The Pluvionauts](https://github.com/pluvionauts): open-source board game
